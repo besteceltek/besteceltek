@@ -1,11 +1,23 @@
 ### Hi there, I'm Beste Çeltek 👋
 
-[<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin_badge" />](https://www.linkedin.com/in/besteceltek/)
+
+### 🤝🏻 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/besteceltek"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Beste Çeltek | LinkedIn"/></a>
+  <a href="mailto:besteceltek@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Beste Çeltek | LinkedIn"/></a>
+  <a href="https://instagram.com/besteceltek"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Beste Çeltek | LinkedIn"/></a>
+</p>
+</br>
+</br>
 
 ### 👩🏻‍💻 Professional Skills
 
 * Language: Java, Javascript
 * Database: Relational Database (PostgreSQL, MySQL)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 <!--
