@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Beste Çeltek 👋
+
+[<img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedin_badge" />](https://www.linkedin.com/in/besteceltek/)
+
+### 👩🏻‍💻 Professional Skills
+
+* Language: Java, Javascript
+* Database: Relational Database (PostgreSQL, MySQL)
+
 
 <!--
 **besteceltek/besteceltek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
