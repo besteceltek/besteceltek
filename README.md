@@ -16,9 +16,6 @@
 * Language: Java, Javascript
 * Database: Relational Database (PostgreSQL, MySQL)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 
 <!--
 **besteceltek/besteceltek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
