@@ -11,6 +11,7 @@ I'm Workplace Engineer who builds process automations for IT. My goal is to lear
   <a href="mailto:besteceltek@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Beste Çeltek | LinkedIn"/></a>
   <a href="https://instagram.com/besteceltek"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Beste Çeltek | LinkedIn"/></a>
 </p>
+</br>
 
 ### 👩🏻‍💻 Professional Skills
 
