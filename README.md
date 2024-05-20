@@ -23,6 +23,6 @@ I'm Workplace Engineer who builds process automations for IT. My goal is to lear
 
 I am currently delving deeper into development with Java EE and REST APIs.
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=besteceltek&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=besteceltek&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true)
