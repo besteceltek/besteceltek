@@ -16,14 +16,14 @@ I'm Workplace Engineer who builds process automations for IT. My goal is to lear
 
 ### 👩🏻‍💻 Professional Skills
 
-* **Language:** Java, Javascript
+* **Language:** Java, Javascript, HTML, CSS
 * **Database:** Relational Database (PostgreSQL, MySQL)
-* **Tools:** Git, RESTful APIs
+* **Tools:** Git, React, RESTful APIs
 * **Methodologies:** Agile, Scrum
 
 ### 🌱 What I'm Learning
 
-I am currently delving deeper into development with Java EE and REST APIs.
+I am currently delving deeper into development with JavaScript and React.
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=besteceltek&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true)<br/>
