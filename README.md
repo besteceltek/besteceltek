@@ -4,6 +4,8 @@ Welcome to my GitHub repository! Here you’ll find my work in **Test Automation
 
 I'm a **QA Engineer** passionate about building robust test infrastructures and ensuring software quality. Beyond testing, I actively bridge the gap between QA and Development. I am expanding my technical skillset towards **Full Stack Development** to better understand the products I test and contribute directly to the application codebase using the latest technologies.
 
+**My Testing Philosophy:** Quality isn't just about finding bugs; it's about preventing them. I believe in shift-left testing, writing self-healing automation scripts, and treating test code with the same respect as production code.
+
 ### 🤝🏻 Connect With Me
 
 <p align="left">
@@ -15,6 +17,13 @@ I'm a **QA Engineer** passionate about building robust test infrastructures and 
 </br>
 
 ### 👩🏻‍💻 Professional Skills
+<p align="left"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=playwright" alt="playwright" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</p>
 
 * **Test Automation:** Playwright, Manual Testing
 * **Languages:** TypeScript, JavaScript, Java, HTML, CSS
