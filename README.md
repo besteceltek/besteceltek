@@ -1,8 +1,8 @@
 ### Hi there, I'm Beste Çeltek 👋
 
-Welcome to my GitHub repository! Here you’ll find a selection of my projects in the world of web development 🚀
+Welcome to my GitHub repository! Here you’ll find my work in **Test Automation**, **Software Quality Assurance**, and **Web Development** 🚀
 
-I'm Workplace Engineer who builds process automations for IT. My goal is to learn web development as well as Javascript and transform ideas into functional and visually appealing apps, using the latest technologies and development practices.
+I'm a **QA Engineer** passionate about building robust test infrastructures and ensuring software quality. Beyond testing, I actively bridge the gap between QA and Development. I am expanding my technical skillset towards **Full Stack Development** to better understand the products I test and contribute directly to the application codebase using the latest technologies.
 
 ### 🤝🏻 Connect With Me
 
@@ -16,14 +16,17 @@ I'm Workplace Engineer who builds process automations for IT. My goal is to lear
 
 ### 👩🏻‍💻 Professional Skills
 
-* **Language:** Java, Javascript, HTML, CSS
-* **Database:** Relational Database (PostgreSQL, MySQL)
-* **Tools:** Git, React, RESTful APIs
-* **Methodologies:** Agile, Scrum
+* **Test Automation:** Playwright, Manual Testing
+* **Languages:** TypeScript, JavaScript, Java, HTML, CSS
+* **Tools & Frameworks:** React, Git, RESTful APIs, Jira, Postman, Swagger
+* **Database:** MongoDB (NoSQL), PostgreSQL, MySQL
+* **Methodologies:** Agile, Scrum, SDLC
 
-### 🌱 What I'm Learning
+### 🌱 What I'm Learning & Doing
 
-I am currently delving deeper into development with JavaScript and React.
+* 🔭 I’m currently implementing **Code Coverage** reporting for E2E tests using **Playwright** to visualize test efficiency.
+* 💻 I'm taking on **Full Stack** tasks in my sprints to strengthen my knowledge in **React**, **MongoDB**, and backend development.
+* 🧩 I focus on writing clean, maintainable test scripts and solving UI rendering challenges.
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=besteceltek&theme=tokyonight&show_icons=true&bg_color=00000000&hide_border=true)<br/>
